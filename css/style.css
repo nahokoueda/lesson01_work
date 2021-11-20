@@ -1,0 +1,52 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+section{
+    height: 100px;
+    background-color: #111111;
+    padding: 32px;
+}
+
+.header{
+    background-color: #FF0000;
+}
+
+.footer{
+    background-color: #00FF00;
+}
+
+h1{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 24px;
+}
+
+p{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 24px;
+}
+
+h2{
+    color: #111111;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 34px;
+}
+
+div{
+    background-color: #F1F1F1;
+    padding: 55px 60px 64px 60px;
+    margin: 64px auto 64px auto;
+    width: 960px;
+}
+figure{
+    width: 840px;
+    height: 542px;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
